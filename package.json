@@ -1,0 +1,19 @@
+{
+  "name": "gildedrose",
+  "version": "1.0.0",
+  "description": "TDD kata",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "author": "Painatalman",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.20",
+    "@types/node": "^14.14.25",
+    "jest": "^26.6.3",
+    "prettier": "^2.3.0",
+    "ts-jest": "^26.5.0",
+    "typescript": "^4.1.3"
+  }
+}
